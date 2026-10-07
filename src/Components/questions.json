@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which keyword is used to create a constant in JavaScript?",
+    "options": ["var", "let", "const", "static"],
+    "answer": "const"
+  },
+  {
+    "question": "Which hook is used to manage state in React?",
+    "options": ["useEffect", "useState", "useContext", "useRef"],
+    "answer": "useState"
+  },
+  {
+    "question": "Which method is used to render a React component?",
+    "options": ["render()", "display()", "show()", "create()"],
+    "answer": "render()"
+  },
+  {
+    "question": "Which Java collection stores key-value pairs?",
+    "options": ["ArrayList", "HashSet", "HashMap", "LinkedList"],
+    "answer": "HashMap"
+  },
+  {
+    "question": "Which annotation is commonly used to create a REST API controller in Spring Boot?",
+    "options": [
+      "@Controller",
+      "@RestController",
+      "@Service",
+      "@Repository"
+    ],
+    "answer": "@RestController"
+  }
+]
